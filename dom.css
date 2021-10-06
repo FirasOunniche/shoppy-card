@@ -1,0 +1,33 @@
+.shoopingCard{
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.qtes{
+ display: flex;
+  justify-content:space-evenly;
+ flex-direction: column;
+}
+
+.details{
+  display: flex;
+  flex-direction: column;
+}
+.product{
+  display: flex;
+}
+.remove{
+  display: flex;
+  flex-direction: column;
+}
+h1{
+  color: deeppink;
+
+}
+h2{
+  color:fuchsia 
+}
+span{
+  color:mediumblue
+}
